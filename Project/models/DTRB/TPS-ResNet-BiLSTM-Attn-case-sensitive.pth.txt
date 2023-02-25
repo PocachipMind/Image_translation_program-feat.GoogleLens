@@ -1,0 +1,6 @@
+용량이 커서 학습 모델을 올리지 못했습니다.
+DTRB에서 제공하는 
+
+TPS-ResNet-BiLSTM-Attn-case-sensitive.pth
+
+모델을 다운 받아서 사용하시면 됩니다.
