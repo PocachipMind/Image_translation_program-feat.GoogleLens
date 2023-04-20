@@ -39,28 +39,20 @@ Project 폴더 - 전체적 코드 존
 
 <br>
 
-프로그램 실행시 다음과 같이 3개의 탭이 있습니다.
+프로그램 시작하면 2개의 탭이있습니다. 
+각 탭은 이미지를 컴퓨터에서 갖고올지, 웹캠을 통해 갖고올지 그 차이만 있을 뿐, 기능은 동일합니다. 
+
+![image](https://user-images.githubusercontent.com/101550112/233433978-3d7c4f13-3c3e-4a34-ab68-a6fbacc84bc9.png)
 
 
-![image](https://user-images.githubusercontent.com/101550112/233297295-89ab3b2d-2568-4aa8-9467-4fccebda1e37.png)
+프로그램에 사용할 이미지를 넣은뒤 Choice Detecting Language 란의 라디오 버튼과 Choice Transform Language 란의 라디오 버튼 지정하고 TransForm Image를 누르면 자동으로 Choice Detecting Language 의 언어를 파악하여 Choice Transform Language언어로 번역하여 이미지를 보여줍니다.
 
-1번 탭 Image Upload : 직접 이미지 파일을 올려서 쓰레기를 분류해 봅니다.
+![image](https://user-images.githubusercontent.com/101550112/233434504-7e3edd79-d699-4cfc-ae2e-d811628332ee.png)
 
-![image](https://user-images.githubusercontent.com/101550112/233296961-479fd597-ecfe-4112-b651-56a4dee99a1b.png)
+위 사진의 경우 여러 글자가 있으나 Choice Detecting Language 란의 ko ( 한국어 ) 만 디텍팅 하여 Choice Transform Language 란의 언어 ja ( 일본어 )로 변경된 것을 볼 수 있습니다.
 
-2번 탭 Using WebCam : 내장되어있는 캠을 통해 이미지를 생성하고 쓰레기를 분류합니다.
+![image](https://user-images.githubusercontent.com/101550112/233435688-e52a8beb-d567-4c52-92fa-e4378aa770b6.png)
 
-![image](https://user-images.githubusercontent.com/101550112/233304292-7bfe2f15-8593-461c-b9ce-e0bbee21ea77.png)
+웹 사이트 아래 부분에서는 디텍팅한 글자가 무엇인지, confidence score가 몇이 나왔는지 확인해 볼 수 있습니다.
 
-3번 탭 Making Image : 원하는 쓰레기 이미지를 생성하여 해당 이미지를 갖고 해당 프로그램을 테스트 해봅니다.
-
-![image](https://user-images.githubusercontent.com/101550112/233321363-f3b6eca3-1f10-4920-aa0e-e67a46f6a158.png)
-
-<br>
-
-각 탭마다 아래에는 다음과 같이 3개의 라디오 버튼이 있는데, 넣은 이미지의 쓰레기 종류를 파악하여 정보를 제공해 줍니다.
-
-![image](https://user-images.githubusercontent.com/101550112/233424128-5581c757-c248-4cb8-b6d9-adafb255df20.png)
-
-![image](https://user-images.githubusercontent.com/101550112/233424513-59de4535-2ee8-4174-974f-431e3e5fd31b.png)
 <br>
