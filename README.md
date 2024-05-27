@@ -1,6 +1,8 @@
 # Image_translation_program-feat.GoogleLens
 이미지를 입력하면 원하는 언어로 추출하여 번역해주는 프로그램입니다.
 
+[ 기한 ] 23.02.13-23.02.17
+
 ![image](https://user-images.githubusercontent.com/101550112/233429998-001143bd-33de-42bd-bc0a-67666e24b108.png)
 
 전체 프로그램 설명 URL : https://youtu.be/ZOzcWPnJ5WA
